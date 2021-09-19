@@ -9,7 +9,6 @@ syn keyword apexConditional     if else when
 syn keyword apexRepeat          while for do
 syn keyword apexBoolean         true false
 syn keyword apexConstant        null
-syn keyword apexGetterSetter    get set
 syn keyword apexTypedef         this super
 syn keyword apexOperator        insert update delete undelete upsert merge
 syn keyword apexStatement       return instanceof

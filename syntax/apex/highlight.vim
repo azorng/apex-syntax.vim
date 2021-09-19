@@ -7,7 +7,6 @@ hi def link apexConstant        Constant
 hi def link apexIdentifier      Identifier
 hi def link apexStatement       Statement
 hi def link apexTypedef         Special
-hi def link apexGetterSetter    Function
 hi def link apexOperator        Operator
 hi def link apexType            Special
 hi def link apexObject          Type
